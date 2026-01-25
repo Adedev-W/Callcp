@@ -2,6 +2,9 @@
 
 A production-ready Python library for secure TCP communication using hybrid cryptography. This library implements RSA-2048 for secure key exchange and AES-256-GCM for authenticated encryption of all subsequent communications.
 
+![Secure TCP Server Banner](assets/docs.png)
+
+
 ## Problem Statement
 
 Traditional TCP communication is inherently insecure, transmitting data in plaintext over the network. This exposes sensitive information to various security threats including:
