@@ -295,10 +295,4 @@ For detailed architecture documentation, see [ARCHITECTURE.md](ARCHITECTURE.md).
 
 Created by @Adedev-W (github)
 
-## Contributing
 
-[Specify contribution guidelines if applicable]
-
-## Support
-
-[Specify support channels if applicable]
