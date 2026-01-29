@@ -289,7 +289,7 @@ For detailed architecture documentation, see [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## License
 
-[Specify your license here]
+[LICENSE](LICENSE)
 
 ## Author
 
